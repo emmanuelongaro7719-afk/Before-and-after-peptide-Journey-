@@ -7,5 +7,6 @@ YouTube content plan for a weight loss transformation channel.
 ## Contents
 
 - [`CONTENT_PLAN.md`](CONTENT_PLAN.md) — Full channel strategy: positioning, video ideas, launch calendar, flagship video script outline, thumbnails/titles, Shorts strategy, and compliance notes
-- [`FLAGSHIP_SCRIPT_OUTLINE.md`](FLAGSHIP_SCRIPT_OUTLINE.md) — Beat-by-beat outline for the channel's first big video
+- [`FLAGSHIP_SCRIPT_OUTLINE.md`](FLAGSHIP_SCRIPT_OUTLINE.md) — Beat-by-beat outline for the channel's first big video, mapped to real photos and scan data
+- [`ASSET_MAP.md`](ASSET_MAP.md) — Inventory of the Google Drive folder ("Before and After Peptide Journey"): every photo, scan, and logo asset, the verified numbers (252.3 lbs / 26.3% BF → 192.2 lbs / 12.2% BF), and the shot-list gaps still to fill
 - [`VIDEO_BACKLOG.md`](VIDEO_BACKLOG.md) — Running list of video ideas organized by content pillar
