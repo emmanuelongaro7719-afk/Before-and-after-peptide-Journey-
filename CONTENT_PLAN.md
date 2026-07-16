@@ -8,13 +8,14 @@ The timeline that anchors everything:
 
 | Year | Milestone |
 |------|-----------|
+| ~1990 | France — young and lean (`Photo 1990.jpg`) |
 | Dec 1993 | Arrive in the US from France — 5'7", 178 lbs |
 | Mid-late 1990s | Now 5'9", over 200 lbs — the American lifestyle catches up |
 | 1990s–2020s | 30+ years of yo-yo dieting: lose, regain, repeat — eventually peaking at 300+ lbs |
-| Recent | Tirzepatide, then retatrutide — the rollercoaster finally stops |
-| Today | **192 lbs at 12.5% body fat** |
+| Sept 21, 2024 | **InBody scan: 252.3 lbs, 26.3% body fat, visceral fat level 13** — the documented starting line |
+| Jul 15, 2026 | **Hume scan: 192.2 lbs, 12.2% body fat, visceral fat 5, resting HR 54 ("Athlete")** |
 
-That's a **110+ lb loss**, ending not just "thinner" but genuinely *lean* — 12.5% body fat is athlete territory, which almost nobody on GLP-1 medications achieves. That's your differentiator: **most people on these medications lose weight; you got lean.** The muscle-preservation angle (protein, resistance training, dosing strategy) is a content goldmine because it answers the #1 fear about these drugs ("you'll just get skinny-fat and lose your muscle").
+That's a **110+ lb loss from the peak**, ending not just "thinner" but genuinely *lean* — 12.2% body fat is athlete territory, which almost nobody on GLP-1 medications achieves. And the scans prove something even rarer: **skeletal muscle went UP (106.9 → 114.8 lbs) while 60 lbs came off.** That's your differentiator: most people on these medications lose weight; you got lean *and kept building muscle*. It directly answers the #1 fear about these drugs ("you'll just get skinny-fat"). Full asset-by-asset breakdown of the proof material is in [`ASSET_MAP.md`](ASSET_MAP.md).
 
 The French immigrant angle is also unique: you have a literal before/after of two food cultures. "I was never fat in France" is a hook that writes itself.
 
@@ -44,7 +45,8 @@ The emotional transformation content. Best for channel growth and new-viewer acq
 What you actually did. This is what search traffic finds.
 - Tirzepatide experience: month-by-month, side effects, plateaus
 - Switching from tirzepatide to retatrutide: why, what changed
-- How you hit 12.5% body fat instead of getting "skinny-fat": protein targets, resistance training, dose management
+- How you hit 12.2% body fat instead of getting "skinny-fat": protein targets, resistance training, dose management
+- The scans video: InBody Sept 2024 (252.3 lbs / 26.3%) vs. Hume Jul 2026 (192.2 lbs / 12.2%) on screen, line by line — muscle up 8 lbs, visceral fat 13 → 5, resting HR 78 → 54
 - Food noise: what it was, what silence sounds like
 - Cost, sourcing realities, working with providers
 
@@ -66,7 +68,7 @@ The chapter nobody covers because nobody's there yet.
 
 **Title candidates (test these as thumbnails/concepts):**
 - "I Fought My Weight for 30 Years. Peptides Ended It in [X] Months."
-- "300 lbs to 12.5% Body Fat — My 30-Year Weight Loss Rollercoaster"
+- "300 lbs to 12.2% Body Fat — My 30-Year Weight Loss Rollercoaster"
 - "I Moved to America in 1993 and Gained 130 Pounds. Here's How I Finally Lost It."
 
 **Length:** 12–18 minutes. This is your channel trailer, pinned video, and the thing every future video links back to.
@@ -90,7 +92,7 @@ See [`FLAGSHIP_SCRIPT_OUTLINE.md`](FLAGSHIP_SCRIPT_OUTLINE.md) for the beat-by-b
 |------|-------|--------|
 | 5 | "Food noise: the thing that ran my life for 30 years" | B |
 | 6 | "Why I switched from tirzepatide to retatrutide" | B |
-| 7 | "How I got to 12.5% body fat on peptides (without losing my muscle)" | B |
+| 7 | "How I got to 12.2% body fat on peptides (without losing my muscle)" | B |
 | 8 | "I was never fat in France: what America did to my eating" | A/C |
 
 ### Month 3 — Establish the future
@@ -111,11 +113,12 @@ See [`FLAGSHIP_SCRIPT_OUTLINE.md`](FLAGSHIP_SCRIPT_OUTLINE.md) for the beat-by-b
 
 **Thumbnail formula that works for transformation content:**
 - Split-frame before/after with your face clearly visible in both — faces drive clicks
+- Ready-made pairing from the Drive folder: `IMG_4101.PNG` (shirtless beach, heavy era) vs. `Photo in suit.JPG` — and recreating the beach shot at 192 lbs in the same pose would be an even stronger pair (see ASSET_MAP.md gaps list)
 - Big number as text overlay: "300 → 192" or "-110 lbs" (numbers outperform words)
-- Consistent visual style so returning viewers recognize you in the feed
+- Consistent visual style so returning viewers recognize you in the feed — you already have the "LaVie" logo assets for a corner watermark and end cards
 
 **Title rules:**
-- Lead with the specific number or timespan: "30 years", "110 lbs", "12.5%"
+- Lead with the specific number or timespan: "30 years", "110 lbs", "12.2%"
 - First-person and past-tense ("I finally...") outperforms advice-framing ("How to...") for journey content; use "How I..." for Pillar B protocol videos
 - Never clickbait beyond what the video delivers — transformation audiences punish it hard in retention
 
@@ -147,5 +150,5 @@ This niche has real content-policy and legal exposure. Protecting the channel fr
 ## 10. What Makes This Channel Win
 
 1. **The ending is already written.** You're not documenting a journey that might fail — you're telling a completed story. That's rare and it's why people will trust you.
-2. **12.5% body fat is the hook within the hook.** "Lost weight on GLP-1s" is common. "Finished lean" is not.
+2. **12.2% body fat is the hook within the hook.** "Lost weight on GLP-1s" is common. "Finished lean" is not.
 3. **30 years of failure is the credibility.** Every viewer who has regained weight sees themselves in you. You're not a genetic outlier or a 25-year-old — you're proof for the people who have tried everything.
